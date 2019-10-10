@@ -10,3 +10,6 @@
 [submodule "CIFAR10_classifier"]
 	path = CIFAR10_classifier
 	url = https://github.com/Sondreab/CIFAR10_classifier.git
+[submodule "object_detection_yolo"]
+	path = object_detection_yolo
+	url = https://github.com/Sondreab/object_detection_yolo.git
