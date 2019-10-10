@@ -1,0 +1,3 @@
+[submodule "simple_binary_mnist_classifier"]
+	path = simple_binary_mnist_classifier
+	url = https://github.com/Sondreab/simple_binary_mnist_classifier.git
