@@ -7,3 +7,6 @@
 [submodule "mnist_classifier"]
 	path = mnist_classifier
 	url = https://github.com/Sondreab/mnist_classifier.git
+[submodule "CIFAR10_classifier"]
+	path = CIFAR10_classifier
+	url = https://github.com/Sondreab/CIFAR10_classifier.git
