@@ -4,3 +4,6 @@
 [submodule "end-to-end_autonomous_driving"]
 	path = end-to-end_autonomous_driving
 	url = https://github.com/Sondreab/end-to-end_autonomous_driving.git
+[submodule "mnist_classifier"]
+	path = mnist_classifier
+	url = https://github.com/Sondreab/mnist_classifier.git
