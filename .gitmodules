@@ -1,3 +1,6 @@
 [submodule "simple_binary_mnist_classifier"]
 	path = simple_binary_mnist_classifier
 	url = https://github.com/Sondreab/simple_binary_mnist_classifier.git
+[submodule "end-to-end_autonomous_driving"]
+	path = end-to-end_autonomous_driving
+	url = https://github.com/Sondreab/end-to-end_autonomous_driving.git
